@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">rickyandmorty-app</string>
+    <string name="title_activity_main">rickyandmorty-app</string>
+    <string name="package_name">com.sancho.rick</string>
+    <string name="custom_url_scheme">com.sancho.rick</string>
+</resources>
